@@ -1,0 +1,6 @@
+print("Hello World")
+print("we are learning python with ")
+print('test for single quotes')
+print("test for double quotes")
+print(''' test for tripple quotes ''')
+print("   what's up")
