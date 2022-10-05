@@ -1,0 +1,3 @@
+PEMDAS=parenthesis,exponents,mul,div,add,sub
+// double slash for whole number like 3,4
+left to right sequence for M,D& A,S
